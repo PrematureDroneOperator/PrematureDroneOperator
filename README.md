@@ -2,6 +2,9 @@
 🌍 Hello world, I am Premature Drone Operator.  
 🏠 Welcome to my Bunker!!
 
+🇩🇪 Hallo Welt, ich bin ein Anfänger-Drohnenoperator.  
+🏢 Willkommen in meinem Bunker!!
+
 🇷🇺 Привет, мир, я Оператор Беспилотников Начального Уровня.  
 🚪 Добро пожаловать в мой Бункер!!
 
